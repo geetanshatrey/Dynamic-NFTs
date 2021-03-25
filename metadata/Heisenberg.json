@@ -1,0 +1,19 @@
+{
+    "name": "Heisenberg",
+    "description": "Say my name ! You goddamn right.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmW9tbz4aEP4wxdKVTLeob6ybxKFG3jB6CrF9oXXhVN6J7",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 100
+        },
+        {
+            "trait_type": "Speed",
+            "value": 100
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 100
+        }
+    ]
+}
